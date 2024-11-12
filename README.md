@@ -91,14 +91,4 @@ This project aims to develop a chatbot with emotional intelligence, capable of u
 - [ ] Phase 4: Multimodal Capabilities (Optional)
 - [ ] Phase 5: Evaluation & Refinement
 
----
 
-## Additional Resources
-
-- **Research Papers**: For background on emotion detection techniques.
-- **Datasets**: For training and testing the emotion detection models.
-- **Books and Online Courses**: To deepen knowledge on NLP, deep learning, and emotion recognition.
-
----
-
-This README serves as the project plan and roadmap. You can update each phase as you make progress. Good luck, and happy coding!
